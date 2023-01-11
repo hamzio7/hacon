@@ -4,24 +4,29 @@
 			"name": "Config 1",
 			"link": "https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip",
 			"app": "anxray",
+			"package": "anxray",
 			"password": ""
 		},
 		{
 			"name": "Config 2",
 			"link": "https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip",
 			"app": "hatunnel",
+			"package": "hatunnel",
 			"password": ""
+			
 		},
 		{
 			"name": "Config 3",
 			"link": "https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip",
 			"app": "raz",
+			"package": "raz",
 			"password": ""
 		},
 		{
 			"name": "Config 4",
 			"link": "https://github.com/hamzio7/testings/raw/master/iconpacks/aosp.zip",
 			"app": "pia",
+			"package": "pia",
 			"password": ""
 		}
 	]
